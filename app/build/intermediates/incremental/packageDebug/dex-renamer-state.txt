@@ -1,0 +1,7 @@
+#Sun Jul 02 21:49:25 WIB 2017
+base.0=/Users/Poncoe/Documents/AStudioProject/ContohLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_06743225270f1d9f2acd43016a44179eb67469f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Poncoe/Documents/AStudioProject/ContohLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5aaff9099eed3dc2a98694a0fa1562564bf72397/classes.dex
+base.1=/Users/Poncoe/Documents/AStudioProject/ContohLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5aaff9099eed3dc2a98694a0fa1562564bf72397
+file.0=/Users/Poncoe/Documents/AStudioProject/ContohLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_06743225270f1d9f2acd43016a44179eb67469f9/classes.dex
